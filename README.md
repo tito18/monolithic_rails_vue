@@ -25,3 +25,6 @@ Things you may want to cover:
 
 To apply devise jwt
 https://brdn.design/articles/rails-6-api-authentication-with-jwt-and-devise-gem
+
+vue vite
+https://bootrails.com/blog/vitejs-rails-a-wonderful-combination/

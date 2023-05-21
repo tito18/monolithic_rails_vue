@@ -17,6 +17,9 @@
 !/log/.keep
 !/tmp/.keep
 
+#Gemfile.lock
+./Gemfile.lockß
+
 # Ignore pidfiles, but keep the directory.
 /tmp/pids/*
 !/tmp/pids/
